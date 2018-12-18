@@ -1,0 +1,11 @@
+{
+  "name" : "spectra",
+  "effectConfig" : {},
+  "defaultDuration" : 1,
+
+  "scripts" : [
+    "spectra.lua"
+  ],
+
+  "animationConfig" : "spectra.animation"
+}
